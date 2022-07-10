@@ -1,0 +1,25 @@
+.navbar {
+  width: 100%;
+  background-color:#fff;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 1rem;
+  z-index: 50;
+  padding-left: 40px;
+  padding-right: 40px;
+} 
+.navbar__logo h2 {
+  color: #111;
+  font-size: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+} 
+
+.navbar__logo span{
+  color: #e67e22;
+}
+
+
